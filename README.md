@@ -3,6 +3,12 @@ A very basic calculator application created with Java **Swing**.
 
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
+## Scan
+<a href="https://scan.coverity.com/projects/canyildiz-calculator">
+  <img alt="Coverity Scan Build Status"
+       src="https://scan.coverity.com/projects/23110/badge.svg"/>
+</a>
+
 ## Thank You!
 Please ⭐️ this repo and share it with others
 
